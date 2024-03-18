@@ -30,8 +30,8 @@ Welcome to Nir, your go-to solution for house renting! Nir is a comprehensive re
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222525_Nir.jpg?raw=true" alt="Screenshot 4" width="300"/>
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222458_Nir.jpg?raw=true" alt="Screenshot 5" width="300"/>
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_220945_Nir.jpg?raw=true" alt="Screenshot 6" width="300"/>
-<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222505_Nir.jpg?raw=true" width="620">
-<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222518_Nir.jpg?raw=true" width="620">
+ <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222505_Nir.jpg?raw=true"alt="Screenshot 7" width="300">
+<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222518_Nir.jpg?raw=true" alt="Screenshot 9" width="300">
 
 </div>
 
