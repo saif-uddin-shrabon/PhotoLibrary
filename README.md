@@ -15,7 +15,7 @@ Welcome to Nir, your go-to solution for house renting! Nir is a comprehensive re
 - **Property Management**:
   - **Property Owner Management**: Property owners can easily add their properties to the platform, providing comprehensive details and images to attract potential tenants.
 
-  - **Tenant Requests**: As a user, you can browse through all available properties and submit rental requests for properties that meet your criteria. Receive notifications when your request is accepted or rejected by the property owner.
+  - **Property Requests**: As a user, you can browse through all available properties and submit rental requests for properties that meet your criteria. Receive notifications when your request is accepted or rejected by the property owner.
 
   - **Owner Notifications**: Property owners are notified of rental requests and can accept or reject them through the platform. They also receive notifications about any updates or actions related to their properties.
 
