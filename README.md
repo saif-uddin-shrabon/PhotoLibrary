@@ -47,28 +47,15 @@ Welcome to Nir, your go-to solution for house renting! Nir is a comprehensive re
 
 </div>
 
-### Website
-
-![Website](link_to_website_screenshot)
-
-### Admin Site
-
-![Admin Site](link_to_admin_site_screenshot)
-
-### Screen Record GIF
-
-![Screen Record](link_to_screen_record_gif)
-
 
 ## How to Use
 
 To get started with Nir, follow these simple steps:
 
-1. **Download the mobile application**: Visit [link_to_app_store](link_to_app_store) to download Nir on your mobile device.
 
-2. **Explore the website**: Head over to [link_to_website](link_to_website) to browse rental listings and manage your properties.
+1. **Explore the website**: Head over to [link_to_website](https://nir.netlify.app) to browse rental listings and manage your properties.
 
-3. **Access the admin site**: Log in to the admin site at [link_to_admin_site](link_to_admin_site) to oversee rental operations and manage user accounts.
+2. **Access the admin site**: Log in to the admin site at [link_to_admin_site](http://www.nir.com](https://project-nir-admin-panel.netlify.app/) to oversee rental operations and manage user accounts.
 
 
 
