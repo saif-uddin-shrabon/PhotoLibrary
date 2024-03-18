@@ -21,7 +21,12 @@ Welcome to Nir, your go-to solution for house renting! Nir is a comprehensive re
 
 - **Advanced Filtering**: Users can filter properties based on various criteria such as category, location, price range, and more, ensuring they find the perfect rental property that suits their needs.
 
-## Screenshots and Screen Record GIF
+### Screen Record 
+
+<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screen_Recording_20240318_232957_Nir.gif?raw=true" alt="Screenshot 6" width="300"/>
+
+
+## Screenshots 
 
 <div align="center">
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222911_Nir.jpg?raw=true" alt="Screenshot 1" width="300"/>
@@ -32,6 +37,13 @@ Welcome to Nir, your go-to solution for house renting! Nir is a comprehensive re
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_220945_Nir.jpg?raw=true" alt="Screenshot 6" width="300"/>
  <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222505_Nir.jpg?raw=true"alt="Screenshot 7" width="300">
 <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222518_Nir.jpg?raw=true" alt="Screenshot 9" width="300">
+  <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_220741_Nir.jpg?raw=true" width="300">
+<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/WhatsApp%20Image%202024-03-18%20at%2023.28.18_5b800d82.jpg?raw=true" alt="Screenshot 10" width="300">
+<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/WhatsApp%20Image%202024-03-18%20at%2023.28.19_3bf0507b.jpg?raw=true" width="300">
+
+
+
+
 
 </div>
 
