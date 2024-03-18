@@ -23,8 +23,7 @@ Welcome to Nir, your go-to solution for house renting! Nir is a comprehensive re
 
 ## Screenshots and Screen Record GIF
 
-### Mobile Application
-
+<div align="center">
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222911_Nir.jpg?raw=true" alt="Screenshot 1" width="300"/>
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222920_Nir.jpg?raw=true" alt="Screenshot 2" width="300"/>
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222934_Nir.jpg?raw=true" alt="Screenshot 3" width="300"/>
@@ -32,8 +31,9 @@ Welcome to Nir, your go-to solution for house renting! Nir is a comprehensive re
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222458_Nir.jpg?raw=true" alt="Screenshot 5" width="300"/>
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_220945_Nir.jpg?raw=true" alt="Screenshot 6" width="300"/>
 <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222505_Nir.jpg?raw=true" width="620">
-<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222505_Nir.jpg?raw=true" width="620">
 <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222518_Nir.jpg?raw=true" width="620">
+
+</div>
 
 ### Website
 
