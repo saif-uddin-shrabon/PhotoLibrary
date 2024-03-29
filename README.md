@@ -15,13 +15,18 @@ Welcome to Nir, your go-to solution for house renting! Nir is a comprehensive re
 - **Property Management**:
   - **Property Owner Management**: Property owners can easily add their properties to the platform, providing comprehensive details and images to attract potential tenants.
 
-  - **Tenant Requests**: As a user, you can browse through all available properties and submit rental requests for properties that meet your criteria. Receive notifications when your request is accepted or rejected by the property owner.
+  - **Property Requests**: As a user, you can browse through all available properties and submit rental requests for properties that meet your criteria. Receive notifications when your request is accepted or rejected by the property owner.
 
   - **Owner Notifications**: Property owners are notified of rental requests and can accept or reject them through the platform. They also receive notifications about any updates or actions related to their properties.
 
 - **Advanced Filtering**: Users can filter properties based on various criteria such as category, location, price range, and more, ensuring they find the perfect rental property that suits their needs.
 
-## Screenshots and Screen Record GIF
+### Screen Record 
+
+<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screen_Recording_20240318_232957_Nir.gif?raw=true" alt="Screenshot 6" width="300"/>
+
+
+## Screenshots 
 
 <div align="center">
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222911_Nir.jpg?raw=true" alt="Screenshot 1" width="300"/>
@@ -32,31 +37,25 @@ Welcome to Nir, your go-to solution for house renting! Nir is a comprehensive re
   <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_220945_Nir.jpg?raw=true" alt="Screenshot 6" width="300"/>
  <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222505_Nir.jpg?raw=true"alt="Screenshot 7" width="300">
 <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_222518_Nir.jpg?raw=true" alt="Screenshot 9" width="300">
+  <img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/Screenshot_20240318_220741_Nir.jpg?raw=true" width="300">
+<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/WhatsApp%20Image%202024-03-18%20at%2023.28.18_5b800d82.jpg?raw=true" alt="Screenshot 10" width="300">
+<img src="https://github.com/saif-uddin-shrabon/PhotoLibrary/blob/main/Nir/WhatsApp%20Image%202024-03-18%20at%2023.28.19_3bf0507b.jpg?raw=true" width="300">
+
+
+
+
 
 </div>
-
-### Website
-
-![Website](link_to_website_screenshot)
-
-### Admin Site
-
-![Admin Site](link_to_admin_site_screenshot)
-
-### Screen Record GIF
-
-![Screen Record](link_to_screen_record_gif)
 
 
 ## How to Use
 
 To get started with Nir, follow these simple steps:
 
-1. **Download the mobile application**: Visit [link_to_app_store](link_to_app_store) to download Nir on your mobile device.
 
-2. **Explore the website**: Head over to [link_to_website](link_to_website) to browse rental listings and manage your properties.
+1. **Explore the website**: Head over to [link_to_website](https://nir.netlify.app) to browse rental listings and manage your properties.
 
-3. **Access the admin site**: Log in to the admin site at [link_to_admin_site](link_to_admin_site) to oversee rental operations and manage user accounts.
+2. **Access the admin site**: Log in to the admin site at [link_to_admin_site](http://www.nir.com](https://project-nir-admin-panel.netlify.app/) to oversee rental operations and manage user accounts.
 
 
 
